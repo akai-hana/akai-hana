@@ -6,7 +6,7 @@
 <code>   (.. \    | <b>HOST</b>:      <a href="https://github.com/akai-hana">akai-hana</a>
    (<> |    | <b>KERNEL</b>:    <a href="https://github.com/akai-hana/akai-linux-kernel">akai-linux-kernel</a>
   //  \ \   | <b>WM (X11)</b>:  <a href="https://github.com/akai-hana/hana-wm">hana-wm</a>
- ( |  | /|  | <b>WALLPAPER</b>: <a href="https://github.com/akai-hana/chrysanth">chrysanth</a>
+ ( |  | /|  | <b>WALLPAPER</b>: <a href="https://github.com/akai-hana/chrysanth">Chrysanth</a>
 _/\ __)/_)  | <b>LAYOUT</b>:    <a href="https://github.com/akai-hana/shirolyzer/tree/main/layouts/shiro">shiro</a>
 \/-____\/"' | <b>DOTFILES</b>:  <a href="https://github.com/akai-hana/dotfiles">here :)</a>
 </code></pre>
