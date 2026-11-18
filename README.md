@@ -12,7 +12,7 @@ _/\ __)/_)  | <b>LAYOUT</b>:    <a href="https://github.com/akai-hana/shirolyzer
 </code></pre>
 
 <details>
-  <summary><b>Click here</b> for a tree list of all my project's repositories here in GitHub.</summary>
+  <summary><b>Click here</b> for a list of all my project's repositories here in GitHub.</summary>
 
   ---
 
