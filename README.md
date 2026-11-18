@@ -2,22 +2,6 @@
 > I enjoy using, creating and contributing to software that improves the QoL of people. \
 > <sub>_I also like programming recreationally._</sub>
 
-<div align=center>
-  
-<!-- the <code> tag is placed like that in purpose.
-     it prevents rendering an empty line at the top (from the newline that separates the tag from the first line). -->
-<pre>
-<code>       (.. \    | <b>HOST</b>:      <a href="https://github.com/akai-hana">akai-hana</a>
-               (<> |    | <b>KERNEL</b>:    <a href="https://github.com/akai-hana/akai-linux-kernel">akai-linux-kernel</a>
-    //  \ \   | <b>WM (X11)</b>:  <a href="https://github.com/akai-hana/hana-wm">hana-wm</a>
-     ( |  | /|  | <b>WALLPAPER</b>: <a href="https://github.com/akai-hana/chrysanth">chrysanth</a>
-_/\ __)/_)  | <b>LAYOUT</b>:    <a href="https://github.com/akai-hana/shirolyzer/tree/main/layouts/shiro">shiro</a>
-  \/-____\/"' | <b>DOTFILES</b>:  <a href="https://github.com/akai-hana/dotfiles">here :)</a>
-</code></pre>
-
-</div>
-
-<!-- pre-center  version:
 <pre>
 <code>   (.. \    | <b>HOST</b>:      <a href="https://github.com/akai-hana">akai-hana</a>
    (<> |    | <b>KERNEL</b>:    <a href="https://github.com/akai-hana/akai-linux-kernel">akai-linux-kernel</a>
@@ -26,7 +10,6 @@ _/\ __)/_)  | <b>LAYOUT</b>:    <a href="https://github.com/akai-hana/shirolyzer
 _/\ __)/_)  | <b>LAYOUT</b>:    <a href="https://github.com/akai-hana/shirolyzer/tree/main/layouts/shiro">shiro</a>
 \/-____\/"' | <b>DOTFILES</b>:  <a href="https://github.com/akai-hana/dotfiles">here :)</a>
 </code></pre>
--->
 
 <details>
   <summary><b>Click here</b> for a tree list of all my project's repositories here in GitHub.</summary>
