@@ -3,7 +3,7 @@
 > <sub>_I also like programming recreationally._</sub>
 
 <pre>
-<code>   (.. \    | <b>HOST</b>:      <a href="https://github.com/akai-hana">akai-hana</a>
+<code>   (.. \    | <b>HOST</b>:      <a href="https://github.com/akai-hana">akai-hana</a> (<-- this'll lead to my personal web later)
    (<> |    | <b>KERNEL</b>:    <a href="https://github.com/akai-hana/akai-linux-kernel">akai-linux-kernel</a>
   //  \ \   | <b>WM (X11)</b>:  <a href="https://github.com/akai-hana/hana-wm">hana-wm</a>
  ( |  | /|  | <b>WALLPAPER</b>: <a href="https://github.com/akai-hana/chrysanth">Chrysanth</a>
