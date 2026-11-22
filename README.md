@@ -11,6 +11,16 @@ _/\ __)/_)  | <b>LAYOUT</b>:    <a href="https://github.com/akai-hana/shirolyzer
 \/-____\/"' | <b>DOTFILES</b>:  <a href="https://github.com/akai-hana/dotfiles">here :)</a>
 </code></pre>
 
+<!-- saving this 7-line tall ascii art in case i ever want to add an extra line to my existing 6-line tall ascii:
+    .--.
+   |o_o |
+   |:_/ |
+  //   \ \
+ (|     | )
+/'\_   _/`\
+\___)=(___/
+-->
+
 <details>
   <summary><b>Click here</b> for a list of all my project's repositories here in GitHub.</summary>
 
