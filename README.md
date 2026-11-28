@@ -1,6 +1,6 @@
 > **Greetings! My alias is <ins>`akai-hana`</ins>.** \
 > I enjoy using, creating and contributing to software that improves the QoL of people. \
-> <sub>_I also like programming recreationally._</sub>
+> <sub>_I also like programming for fun._</sub>
 
 <pre>
 <code>   (.. \    | <b>HOST</b>:      <a href="https://akai-hana.neocities.org">akai-hana</a>
@@ -28,7 +28,7 @@ _/\ __)/_)  | <b>LAYOUT</b>:    <a href="https://github.com/akai-hana/shirolyzer
 
 | `Personal projects` |
 | :--- |
-_Projects that I build for recreational desires._
+_Projects that I build partly for necessity, and mostly for fun._
 
 - [**hana-wm**](https://github.com/akai-hana/hana-wm): Modular X11 Window Manager, written in Zig.
    > In the same vein of DWM/BSPWM, it features a fully modular architecture design, and lots of usage goodies.
@@ -47,7 +47,7 @@ _Projects that I build for recreational desires._
 
 | `Educational projects` |
 | :--- |
-_Projects that I develop to learn about the areas of programming that spark an interest in me._
+_Projects that I develop to learn about the areas of software that interest me._
 
 - **`Frontend`**
    - [**My Neocities site**](https://github.com/akai-hana/akai-hana.neocities.org): My personal website, hosted in the mythical site [Neocities](https://neocities.org). `(ONGOING!)`
